@@ -1,0 +1,5 @@
+Order{customer=Customer{name='James', id=1, gender=MALE}, product=Product{id=3, product=NOTE_BOOK, price=205.0}, id=1}
+Order{customer=Customer{name='Effie', id=2, gender=FEMALE}, product=Product{id=2, product=PENCIL, price=12.5}, id=2}
+Order{customer=Customer{name='Claire', id=4, gender=FEMALE}, product=Product{id=1, product=PEN, price=50.85}, id=3}
+Order{customer=Customer{name='Mark', id=3, gender=MALE}, product=Product{id=5, product=LASTIC, price=15.05}, id=4}
+Order{customer=Customer{name='Mark', id=3, ge
